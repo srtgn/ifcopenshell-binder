@@ -14,7 +14,7 @@ dependencies:
 - ipywidgets=7.6
 - widgetsnbextension=3.5
 - ipyleaflet=0.13
-- pythonocc-core
+- pythonocc-core=7.4.0beta
 - pythreejs
 - ifcopenshell
 - python-graphviz
