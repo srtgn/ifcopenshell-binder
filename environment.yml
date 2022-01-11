@@ -10,7 +10,7 @@ dependencies:
 - jupyterlab-link-share=0.2
 # Python Kernel
 - ipykernel=5.1
-- xeus-python=0.9
+- xeus-python=0.6.8
 - ipywidgets=7.6
 - widgetsnbextension=3.5
 - ipyleaflet=0.13
